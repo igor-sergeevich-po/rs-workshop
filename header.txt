@@ -5,4 +5,4 @@ task new abobo
 changes from master ""
 ---------------------------------------
 
-new changes in file 1 (from master!)
+new changes in file 1 (from master!)   for  *** rebase
