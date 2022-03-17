@@ -1,8 +1,9 @@
-this is new message!
-task two
-task new abobo
+this is new message! + task two + task new abobo
 
-changes from master ""
----------------------------------------
+
+changes from master " asdfjl;;lkjasdf;ljasdlf;j new changes "
+---------------------                   ------------------
 
 new changes in file 1 (from master!)   for  *** rebase
+
+text from master is good +++
