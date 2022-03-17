@@ -1,9 +1,12 @@
 new changes
     add changes 2
-<<<<<<< HEAD
+
 
 
     +++ new changes on my home pc *** abobo add new data +++
 
 
 new changes on my home pc!!!
+
+
+ add line and be happy!!
